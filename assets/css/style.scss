@@ -23,10 +23,8 @@ $code-text-color: #567482 !default;
 $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+
+// Button
 .button {
   border: none;
   color: white;
@@ -38,7 +36,6 @@ $hr-border-color: #eff0f1 !default;
   margin: 4px 2px;
   cursor: pointer;
 }
-//button
 .button1 {background-color: #4CAF50;} /* Green */
 .button2 {background-color: #008CBA;} /* Blue */
 
