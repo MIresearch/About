@@ -7,7 +7,7 @@ The current platform allows us to share on-going and past work while linking it 
 We leverage our technical and analytical skills as well as economic thoughts to bring new persectives to current policy discussions. 
 
 
-Our work is data-driven and uses some of the latest techniques such as big data analysis and machine learning techniques to as new policy questions and influence global policy issues related to:<Br>
+Our work is data-driven and uses some of the latest techniques such as big data analysis and machine learning influence global policy issues related to:<Br>
  
 <button class="button button2"><b>International Finance</b></button> <button class="button button2"><b>Health Economics</b></button> <button class="button button2"><b>Regional Economics</b></button>
 
