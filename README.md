@@ -4,7 +4,7 @@ The Offical Website of the Milken Institute is <a href="https://milkeninstitute.
 
 The current platform allows us to share our on-going and past work while linking it to current events.
 
-Our goal is to leverage our technical and analytical skills as well as economic thoughts to bring new persectives to current policy discussions. 
+We leverage ur technical and analytical skills as well as economic thoughts to bring new persectives to current policy discussions. 
 
 
 Our work is data-driven and uses some of the latest techniques such as big data analysis and machine learning techniques to as new policy questions and influence global policy issues related to:<Br>
