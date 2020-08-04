@@ -5,6 +5,6 @@ The current platform allows us to share the data used in our work. Our official 
 
 Links to:
 
- <button class="button button2"><b>I<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank">The COVID-19 Community Explorer/</a></b></button> <button class="button button2"><b><a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank">The Global Opportunity Index</b></button>
+<button class="button button2"><b>The COVID-19 Community Explorer<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank">/</a></b></button> <button class="button button2"><b>The Global Opportunity Index<a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"></b></button>
 
 
