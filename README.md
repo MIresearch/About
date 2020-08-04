@@ -1,7 +1,7 @@
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-We leverage our technical and analytical skills, and economic thoughts to bring new perspectives to current policy discussions. Our work is data-driven and uses some of the latest techniques such as big data analysis and machine learning to influence global policy issues related to Health Economics, International Finance and Regional Economics.<br><br>
-The current platform allows us to share the data used in our work. Our official webpage is <a href="https://milkeninstitute.org/research-department" target="_blank">https://milkeninstitute.org/research-department</a>
+We use data-driven and economic analysis combined with some of the latest techniques such as big data analysis and machine learning to influence global policy issues related to Health Economics, International Finance and Regional Economics. <br><br>
+We use the current platform to visualize some of the data used in our work, our official webpage is <a href="https://milkeninstitute.org/research-department" target="_blank">https://milkeninstitute.org/research-department</a>
 
 Links to:
 
