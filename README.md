@@ -7,9 +7,9 @@ Links to:
 
 <a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank"><button class="button button2"><b>COVID-19 Community Explorer</b></button></a><br>
 
-<a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>Global Opportunity Index</button></b></a><br>
+<a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>Global Opportunity Index</b></button></a><br>
 
-<button class="button button2"><b>Community-Explorer" target="_blank"></b></button> <br>
+<button class="button button2"><b>Community-Explorer></b></button> <br>
  
 
 
