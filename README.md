@@ -5,11 +5,11 @@ The current platform allows us to share the data used in our work. Our official 
 
 Links to:
 
-<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank"><button class="button button2"><b>The COVID-19 Community Explorer</b></button></a><br>
+<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank"><button class="button button2"><b>COVID-19 Community Explorer</b></button></a><br>
 
-<a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>The Global Opportunity Index</button></a></b><br>
+<a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>Global Opportunity Index</button></b></a><br>
 
-<button class="button button2"><b>The Global Opportunity Index<a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"></b></button> <br>
+<button class="button button2"><b>Community-Explorer" target="_blank"></b></button> <br>
  
 
 
