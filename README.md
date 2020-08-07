@@ -27,9 +27,9 @@ Links to:
 <a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>Global Opportunity Index</b></button></a><br>
 
 <button class="button button2"><b>Economic Community Explorer</b></button> <br>
-<br><br>
+<br><br><br> <br>
 
-Our official webpage is <a href="https://milkeninstitute.org/research-department" target="_blank">https://milkeninstitute.org/research-department</a> <br>
-A more complete collection of our work can be found <a href="https://claudelopez.com/research-dpt-mi/ " target="_blank"><b>here </b></a> <br> <br>
-
+For questions and comments:<a href="mailto:research@milkeninstitute.org"> research@milkeninstitute.org </a><br> <br>
+  <i>Note: <br>Our official webpage is <a href="https://milkeninstitute.org/research-department" target="_blank">https://milkeninstitute.org/research-department</a> <br>
+A more complete collection of our work can be found <a href="https://claudelopez.com/research-dpt-mi/ " target="_blank"><b>here </b></a> <br> <br>  </i>
 
