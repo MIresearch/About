@@ -15,11 +15,11 @@ src="https://c.statcounter.com/12370715/0/d1e49415/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-<meta name="twitter:title" content="MI Research Data Vizualization Hub">
+<meta name="twitter:title" content="MI Research Data Vizualization">
 <meta name="twitter:image" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
-<meta property="og:title" content="MI Research Data Vizualization Hub">
+<meta property="og:title" content="MI Research Data Vizualization">
 <meta property="og:image" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
 <meta property="og:image:url" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
 <meta property="og:image:secure_url" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
