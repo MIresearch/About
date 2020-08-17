@@ -13,7 +13,19 @@ href="https://statcounter.com/" target="_blank"><img
 class="statcounter"
 src="https://c.statcounter.com/12370715/0/d1e49415/1/"
 alt="Web Analytics"></a></div></noscript>
-<!-- End of Statcounter Code --></head>
+<!-- End of Statcounter Code -->
+
+<meta name="twitter:title" content="Milken Institute Data Vizualization Hub">
+<meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+
+<meta property="og:title" content="Milken Institute Data Vizualization Hub">
+<meta property="og:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta property="og:image:secure_url" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta property="og:url" content="https://miresearch.github.io/About/">
+
+</head>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
