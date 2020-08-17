@@ -16,13 +16,13 @@ alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
 <meta name="twitter:title" content="Milken Institute Data Vizualization Hub">
-<meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta name="twitter:image" content=http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
 <meta property="og:title" content="Milken Institute Data Vizualization Hub">
-<meta property="og:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
-<meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
-<meta property="og:image:secure_url" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta property="og:image" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
+<meta property="og:image:url" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
+<meta property="og:image:secure_url" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
 <meta property="og:url" content="https://miresearch.github.io/About/">
 
 </head>
