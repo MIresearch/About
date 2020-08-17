@@ -15,7 +15,7 @@ src="https://c.statcounter.com/12370715/0/d1e49415/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-<meta name="twitter:title" content="Milken Institute Data Vizualization Hub">
+<meta name="twitter:title" content="Milken Institute Research Data Vizualization Hub">
 <meta name="twitter:image" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
