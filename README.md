@@ -16,14 +16,14 @@ alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
 <meta name="twitter:title" content="MI Research Data Vizualization">
-<meta name="twitter:image" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
+<meta name="twitter:image" content="https://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="image" property="og:image" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
+<meta name="image" property="og:image" content="https://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
 
 <meta property="og:title" content="MI Research Data Vizualization">
-<meta property="og:image" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
-<meta property="og:image:url" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
-<meta property="og:image:secure_url" content="http://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
+<meta property="og:image" content="https://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
+<meta property="og:image:url" content="https://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
+<meta property="og:image:secure_url" content="https://claudelopezcom.ipage.com/claudelopez/data_viz.jpg">
 <meta property="og:url" content="https://miresearch.github.io/About/">
 
 </head>
