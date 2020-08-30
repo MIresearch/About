@@ -36,7 +36,7 @@ We use the current platform to visualize and share some of the data used in our 
 
 Links to:
 
-<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank"><button class="button button2"><b>COVID-19 Community Explorer</b></button></a> an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. <br>
+<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank"><button class="button button2"><b>COVID-19 Community Explorer</b></button></a> <br>
 
 <a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>Global Opportunity Index</b></button></a><br>
 
