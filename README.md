@@ -30,7 +30,7 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department on GitHub </b></H1><Hr>
 
-The Research Department at the Milken Institute uses data-driven and economic analysis combined with some of the latest techniques such as big data analysis and machine learning to influence global policy issues related to Health Economics, International Finance and Regional Economics. <br><br>
+The <a href="https://milkeninstitute.org/research-department" target="_blank"> Research Department at the Milken Institute </a> uses data-driven and economic analysis combined with some of the latest techniques such as big data analysis and machine learning to influence global policy issues related to Health Economics, International Finance and Regional Economics. <br><br>
 
 We use the current platform to visualize and share some of the data used in our work. <br>
 
