@@ -42,6 +42,8 @@ Links to:
 
 <a href="https://miresearch.github.io/Labor-Market-Explorer/" target="_blank"><button class="button button2"><b>Labor Market Explorer</b></button> <br>
 <br><br><br> <br>
+ <a href="https://miresearch.github.io/Tech-Regulation/" target="_blank"><button class="button button2"><b>Tech-Regulation Tracker</b></button> <br>
+<br><br><br> <br>
 
 
 
