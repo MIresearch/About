@@ -36,8 +36,8 @@ We use the current platform to visualize and share some of the data used in our 
 
 Links to:
 
-<a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"><button class="button button2"><b>Community Explorer / 17 profiles (Beta version)</b></button></a> <br>
-<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer / 8 profiles</b></button></a> <br>
+<a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"><button class="button button2"><b>Community Explorer / 17 profiles based on 751 factors (Beta version)</b></button></a> <br>
+<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer / 8 profiles based on 26 factors</b></button></a> <br>
 <a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer</b></button></a> <br>
 <a href="https://miresearch.github.io/Labor-Market-Explorer/" target="_blank"><button class="button button2"><b>Labor Market Explorer</b></button> <br>
 <br>
