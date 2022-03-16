@@ -38,8 +38,10 @@ Links to:
 
 <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"><button class="button button2"><b>Community Explorer / 17 profiles based on 751 factors (Beta version)</b></button></a> <br>
 <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer / 8 profiles based on 26 factors</b></button></a> <br>
-<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer</b></button></a> <br>
-<a href="https://miresearch.github.io/Labor-Market-Explorer/" target="_blank"><button class="button button2"><b>Labor Market Explorer</b></button> <br>
+ <a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer</b></button></a> <br>
+ <a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer, 17 Profiles</b></button></a> <br>
+
+ <a href="https://miresearch.github.io/Labor-Market-Explorer/" target="_blank"><button class="button button2"><b>Labor Market Explorer</b></button> <br>
 <br>
  <a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>Global Opportunity Index</b></button></a><br>
 <br>
