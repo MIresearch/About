@@ -47,7 +47,7 @@ Links to:
 <br>
  <a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>Global Opportunity Index</b></button></a><br>
 <br>
- <a href="https://miresearch.github.io/Tech-Regulation/" target="_blank"><button class="button button2"><b>Tech Regulation Tracker</b></button> <br>
+ <a href="https://miresearch.github.io/Tech-Regulation/" target="_blank"><button class="button button2"><b>Tech Policy Tracker</b></button> <br>
 <br><br><br> <br>
 
 
