@@ -38,7 +38,7 @@ Links to:
 
 <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"><button class="button button2"><b>Community Explorer / 17 profiles based on 751 factors (Beta version)</b></button></a> <br>
 <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer / 8 profiles based on 26 factors</b></button></a> <br>
-<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer / 17 Profiles</b></button></a> <br><a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer / 8 Profiles</b></button></a> <br>
+<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer / 17 Profiles</b></button></a> <br><a href="https://miresearch.github.io/https://miresearch.github.io/COVID-19-Community-Explorer-8profiles/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer / 8 Profiles</b></button></a> <br>
 <br><a href="https://miresearch.github.io/CE-kidney-chronic-disease/" target="_blank"><button class="button button2"><b>Community Explorer and Chronic Kidney Disease / 17 Profiles</b></button></a> <br>
  
 <br>
