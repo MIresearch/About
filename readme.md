@@ -32,7 +32,7 @@ alt="Web Analytics"></a></div></noscript>
 
 The <b><a href="https://milkeninstitute.org/research-department" target="_blank"> Research Department at the Milken Institute </a> </b>uses data-driven and economic analysis combined with some of the latest techniques such as big data analysis and machine learning to influence global policy issues related to Health Economics, International Finance and Regional Economics. <br><br>
 
-We use the current platform to visualize and share some of the data used in our work. <br>
+We use the current platform to visualize and share some of the data generated in our work. <br>
 
 <H2><b> Interactive Tools with a US Focus</b> </H2> <Hr>
 <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"><button class="button button2"><b>Community Explorer</b></button></a> <br>
