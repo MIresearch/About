@@ -34,15 +34,14 @@ The <b><a href="https://milkeninstitute.org/research-department" target="_blank"
 
 We use the current platform to visualize and share some of the data used in our work. <br>
 
-Links to interactive tools:
-<H2><b> US focus</b> </H2> <Hr>
+<H2><b> Interactive Tool with a US Focus</b> </H2> <Hr>
 <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"><button class="button button2"><b>Community Explorer</b></button></a> <br>
 <a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer</b></button></a> <br>
 <a href="https://miresearch.github.io/CE-kidney-chronic-disease/" target="_blank"><button class="button button2"><b>Community Explorer and Chronic Kidney Disease </b></button></a> <br>
 <a href="https://miresearch.github.io/Labor-Market-Explorer/" target="_blank"><button class="button button2"><b>Labor Market Explorer</b></button> <br>
 <br>
 
-<H2><b> Global focus</b> </H2> <Hr>
+<H2><b> Interactive Tools with a Global Focus</b> </H2> <Hr>
  <a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>Global Opportunity Index</b></button></a><br>
  <a href="https://miresearch.github.io/Tech-Regulation/" target="_blank"><button class="button button2"><b>Tech Policy Tracker</b></button> <br>
 <br><br><br> <br>
