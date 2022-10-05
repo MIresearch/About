@@ -37,23 +37,17 @@ We use the current platform to visualize and share some of the data used in our 
 Links to interactive tools:
 <H2><b> US focus</b> </H2> <Hr>
 <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"><button class="button button2"><b>Community Explorer</b></button></a> <br>
-
-<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer</b></button></a> 
-<br>
+<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer</b></button></a> <br>
 <a href="https://miresearch.github.io/CE-kidney-chronic-disease/" target="_blank"><button class="button button2"><b>Community Explorer and Chronic Kidney Disease </b></button></a> <br>
- 
-<br>
-
- <a href="https://miresearch.github.io/Labor-Market-Explorer/" target="_blank"><button class="button button2"><b>Labor Market Explorer</b></button> <br>
+<a href="https://miresearch.github.io/Labor-Market-Explorer/" target="_blank"><button class="button button2"><b>Labor Market Explorer</b></button> <br>
 <br>
 
 <H2><b> Global focus</b> </H2> <Hr>
  <a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>Global Opportunity Index</b></button></a><br>
-<br>
  <a href="https://miresearch.github.io/Tech-Regulation/" target="_blank"><button class="button button2"><b>Tech Policy Tracker</b></button> <br>
 <br><br><br> <br>
 
 <H2><b> Retired Tools</b> </H2> <Hr>
-<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer / 8 profiles based on 26 factors</b></button></a> <br>
-<br><a href="https://miresearch.github.io/COVID-19-Community-Explorer-8profiles/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer / 8 Profiles</b></button></a> <br>
+<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer / 8 profiles based on 26 factors</b></button></a> 
+<a href="https://miresearch.github.io/COVID-19-Community-Explorer-8profiles/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer / 8 Profiles</b></button></a> <br>
 
