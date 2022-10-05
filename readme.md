@@ -48,6 +48,6 @@ Links to interactive tools:
 <br><br><br> <br>
 
 <H2><b> Retired Tools</b> </H2> <Hr>
-<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer / 8 profiles based on 26 factors</b></button></a> 
+<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer / 8 profiles based on 26 factors</b></button></a> <br>
 <a href="https://miresearch.github.io/COVID-19-Community-Explorer-8profiles/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer / 8 Profiles</b></button></a> <br>
 
