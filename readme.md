@@ -53,7 +53,7 @@ Links to interactive tools:
  <a href="https://miresearch.github.io/Tech-Regulation/" target="_blank"><button class="button button2"><b>Tech Policy Tracker</b></button> <br>
 <br><br><br> <br>
 
-Previous work: 
+<H2><b> Retired Tools</b> </H2> <Hr>
 <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer / 8 profiles based on 26 factors</b></button></a> <br>
 <br><a href="https://miresearch.github.io/COVID-19-Community-Explorer-8profiles/" target="_blank"><button class="button button2"><b>Covid-19 Community Explorer / 8 Profiles</b></button></a> <br>
 
