@@ -36,7 +36,6 @@ We use the current platform to visualize and share some of the data generated in
 
 <H2><b> Interactive Tools with a US Focus</b> </H2> <Hr>
 <a href="https://miresearch.github.io/Best-Performing-Cities/" target="_blank"><button class="button button2"><b>Best Performing Cities</b></button> <br>
-<br>
 <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer</b></button></a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;   <a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"><button class="button button2"><b>Community Explorer and Covid-19</b></button></a> <br>
  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://miresearch.github.io/dementia/" target="_blank"><button class="button button2"><b>Community Explorer and Dementia </b></button></a> <br>
