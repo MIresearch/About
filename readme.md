@@ -46,6 +46,7 @@ We use the current platform to visualize and share some of the data generated in
 
 <H2><b> Interactive Tools with a Global Focus</b> </H2> <Hr>
  <a href="https://miresearch.github.io/Global-Opportunity-Index/" target="_blank"><button class="button button2"><b>Global Opportunity Index</b></button></a><br>
+ <a href="https://miresearch.github.io/Mexico-Exports/" target="_blank"><button class="button button2"><b>Mexico's Competitiveness as a Trade Partner</b></button></a><br>
  <a href="https://miresearch.github.io/Tech-Regulation/" target="_blank"><button class="button button2"><b>Tech Policy Tracker</b></button> <br>
 <br>
 
